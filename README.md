@@ -1,5 +1,5 @@
 # gismoJobCode
-Python scripts for scheduled server jobs
+Python scripts for scheduled server jobs.
 Initially created 10-8-2018
 
 
